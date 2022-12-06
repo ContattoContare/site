@@ -9,4 +9,7 @@ events:
   - windows95
   - windows1
   - windows10
+  - qnx
+  - OS2
+  - amiga-workbench
 ---
