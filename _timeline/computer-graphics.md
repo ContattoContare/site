@@ -15,4 +15,5 @@ events:
 - small talk paint
 - kinect
 - unreal-blueprints
+- photoshop
 ---
