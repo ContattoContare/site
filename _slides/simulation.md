@@ -8,4 +8,5 @@ slides:
   - kinect
   - kidsim
   - reactivision-simulator
+  - -lightroom
 ---
