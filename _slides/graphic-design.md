@@ -7,4 +7,5 @@ slides:
   - photoshop
   - sketchpad-drafting
   - sketchpad-interaction
+  - blender
 ---
