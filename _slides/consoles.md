@@ -1,7 +1,7 @@
 ---
 layout: slides
-title: Operating Systems
-image_url: /images/amiga3.5.png
+title: Consoles
+image_url: /images/psvita.png
 caption: Διαφάνειες για το κεφάλαιο Consoles
 slides:
   - psvita

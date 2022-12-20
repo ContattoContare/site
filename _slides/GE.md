@@ -1,7 +1,7 @@
 ---
 layout: slides
-title: Operating Systems
-image_url: /images/amiga3.5.png
+title: Game Engines
+image_url: /images/unity.png
 caption: Διαφάνειες για το κεφάλαιο GE
 slides:
   - unity
